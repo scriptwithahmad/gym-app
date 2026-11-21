@@ -1,1 +1,1 @@
-# gym-app
+genvibe-expo-starter
